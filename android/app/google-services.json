@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "786230949333",
+    "project_id": "signin-gardana",
+    "storage_bucket": "signin-gardana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786230949333:android:4369861c11093fb5bef95c",
+        "android_client_info": {
+          "package_name": "com.wiranata.gardana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786230949333-1pktnddcq58g4v1v2ebko76r9cv57nvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wiranata.gardana",
+            "certificate_hash": "dda397bdc2c0e842424040b80024ae1d1b96602b"
+          }
+        },
+        {
+          "client_id": "786230949333-mgjmcv3q4r0ae174oit0qtd8qa22no4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGRj_X15vCbGBVX4QZO5cjDQGQY_Zdypc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786230949333-mgjmcv3q4r0ae174oit0qtd8qa22no4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
